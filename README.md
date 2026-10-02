@@ -47,3 +47,7 @@ GET: Get all issued books with their fine amount
 npm init
 npm i express
 npm i nodemon --save-dev
+
+npm run dev
+
+To restore node module and package-lock-json --> npm i/npm install
